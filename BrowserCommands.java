@@ -49,7 +49,7 @@ public class BrowserCommands
 	 
 	  
   }
-  
+  // adding comments on this file
   @Test
   public void cookies() throws InterruptedException
   {
