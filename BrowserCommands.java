@@ -21,7 +21,8 @@ import org.testng.annotations.AfterMethod;
 public class BrowserCommands
 {
 	WebDriver driver;
-	
+
+	// this test is great and I have done changes.
  // @Test
   public void browsers() 
   {
